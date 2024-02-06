@@ -1,0 +1,12 @@
+{
+  "favorites": [
+    {
+      "id": 1,
+      "name": "Planfait",
+      "location": "45.8533,6.2229",
+      "preferedAltitude": 900,
+      "minAltitude": 500,
+      "maxAltitude": 2000
+    }
+  ]
+}
